@@ -11,7 +11,7 @@ function run(msg, matches)
 I thank my friend
 And many more..
 
-Our Chanel: https://telegram.me/QuickGuardTeam
+Our Chanel: ....
 Profile Robot
 kingbot
 VERSION 1
